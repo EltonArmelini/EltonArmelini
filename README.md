@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Elton Armelini</h1>
-<h5 align="left">Soy un Desarrollador apasionado del Backend en constante búsqueda de nuevas tecnologías. Especializado en Laravel y PHP8, junto con bases de datos SQL como MySQL y SQLServer. Experiencia sólida en PHP y JS, con Laravel y Vue.js como frameworks de elección. 
+<h5 align="left">👦Soy un Desarrollador apasionado del Backend en constante búsqueda de nuevas tecnologías. Especializado en Laravel y PHP8, junto con bases de datos SQL como MySQL y SQLServer. Experiencia sólida en PHP y JS, con Laravel y Vue.js como frameworks de elección. 
+<br> 
+<br> 
 <br> 
 🚀 Mi pasión radica en proyectos de automatización que aumentan la productividad y reducen errores. Aunque aún no destaco proyectos específicos, ¡mi ambición es crear soluciones innovadoras en el futuro! 
 <br>
