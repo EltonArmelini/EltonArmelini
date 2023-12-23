@@ -1,5 +1,13 @@
 <h1 align="center">Hola 👋, soy Elton Armelini</h1>
-<h5 align="left">Soy un Desarrollador apasionado del Backend en constante búsqueda de nuevas tecnologías. Especializado en Laravel y PHP8, junto con bases de datos SQL como MySQL y SQLServer. Experiencia sólida en PHP y JS, con Laravel y Vue.js como frameworks de elección. 🚀 Mi pasión radica en proyectos de automatización que aumentan la productividad y reducen errores. Aunque aún no destaco proyectos específicos, ¡mi ambición es crear soluciones innovadoras en el futuro! 🌐 Activo en comunidades online, sigo a influyentes en YouTube y Twitch para aprender de los mejores. Busco certificaciones en la nube y bases de datos para fortalecer mi conjunto de habilidades. 🤝 Valoro la colaboración, el networking y la comunicación constructiva en equipos. Mi enfoque principal es el aprendizaje continuo para mejorar mi trabajo y lograr resultados excepcionales. ✨ Creo en la versatilidad y la multidisciplinariedad para explorar nuevas perspectivas en el desarrollo. ¡Construyamos el futuro juntos, con creatividad y compromiso!</h5>
+<h5 align="left">Soy un Desarrollador apasionado del Backend en constante búsqueda de nuevas tecnologías. Especializado en Laravel y PHP8, junto con bases de datos SQL como MySQL y SQLServer. Experiencia sólida en PHP y JS, con Laravel y Vue.js como frameworks de elección. 
+<br> 
+🚀 Mi pasión radica en proyectos de automatización que aumentan la productividad y reducen errores. Aunque aún no destaco proyectos específicos, ¡mi ambición es crear soluciones innovadoras en el futuro! 
+<br>
+🌐 Activo en comunidades online, sigo a influyentes en YouTube y Twitch para aprender de los mejores. Busco certificaciones en la nube y bases de datos para fortalecer mi conjunto de habilidades. 
+<br>
+🤝 Valoro la colaboración, el networking y la comunicación constructiva en equipos. Mi enfoque principal es el aprendizaje continuo para mejorar mi trabajo y lograr resultados excepcionales. 
+<br>
+✨ Creo en la versatilidad y la multidisciplinariedad para explorar nuevas perspectivas en el desarrollo. ¡Construyamos el futuro juntos, con creatividad y compromiso!</h5>
 
 - 🌱 Actualmente estoy aprendiendo **Ansible, Jenkins, Kubernetes**
 
